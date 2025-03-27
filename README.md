@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mohtasham Hussain (@idkcode01)
-💻 B.Tech in Computer Science | Python Developer | Full-Stack Developer | Machine Learning Enthusiast**  
+**💻 B.Tech in Computer Science | Python Developer | Full-Stack Developer | Machine Learning Enthusiast**  
 
 🚀 **What I Do**  
 - 🔥 Passionate about **Python**, **Full-Stack Development**, and **Machine Learning**  
@@ -20,11 +20,11 @@
 - Open-source contributor 🚀  
 
 📫 **How to Reach Me**  
-📧 Email: [mohtashamhussain1@gmail.com.com](mailto:mohtashamhussain1@gmail.com)  
+📧 Email: [mohtashamhussain1@gmail.com](mailto:mohtashamhussain1@gmail.com)  
 🌐 Portfolio: [idkcode.tech](https://idkcode.tech)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohtashamhussain)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/idksahil)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/idkcode01)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/idkcode01)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/idk_sahil)  
 
 ⚡ **Fun Fact**  
 I love **traveling**, **cricket**, and **exploring different cultures**.  
